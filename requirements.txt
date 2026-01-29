@@ -1,0 +1,5 @@
+This project only depends on the cryptography library.
+
+	cryptography>=41.0.0
+
+
